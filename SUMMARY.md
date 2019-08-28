@@ -1,6 +1,6 @@
 # Table of contents
 
-* [D-lyw/Notes](README.md)
+* [Study Record](README.md)
 * [Untitled](untitled.md)
 * [Untitled](untitled-1.md)
 * [other](other.md)
