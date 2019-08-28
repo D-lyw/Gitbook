@@ -1,9 +1,4 @@
-# Table of contents
+# Summary
 
-* [Study Record](README.md)
-* [other](other.md)
-
-## Network
-
-* [Untitled](network/untitled.md)
+* [Introduction](README.md)
 

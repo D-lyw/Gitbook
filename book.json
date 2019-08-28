@@ -1,0 +1,21 @@
+{
+  "title": "D-lyw Study Record",
+  "author": "D-lyw",
+  "links": {
+  	"sidebar": {
+		"home": "https://github.com/D-lyw"
+	}
+  },
+  "plugins": ["disqus","github", "expandable-chapters-small", "ga","splitter"],
+  "pluginsConfig": {
+	"github": {
+		"url": "https://github.com/D-lyw"
+	},
+  	"disqus": {
+   		"shortName": "study-record-1"
+    	},
+	"ga": {
+		"token": "UA-146221372-2"
+	}
+}
+}
