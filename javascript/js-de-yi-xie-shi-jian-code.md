@@ -61,3 +61,22 @@ const delayExecute = function(callback, time_out) {
 }
 ```
 
+
+
+> 将错误优先回调风格转成Promise风格
+
+```javascript
+const fs = require('fs');
+const readFile = function(path)｛
+    return new Promise((resolve, reject) => {
+        fs.readFile(path, (err, data) => {
+            if ()  {
+                reject(err);
+            }
+            resolve(data);
+        });
+    })
+｝
+const promise = readFile('someFilePath');
+```
+
